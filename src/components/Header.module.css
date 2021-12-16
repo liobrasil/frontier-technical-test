@@ -1,0 +1,12 @@
+.header {
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0px 20px;
+
+  border-bottom: 2px solid rgb(110, 110, 110);
+  box-sizing: border-box;
+}

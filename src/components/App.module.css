@@ -1,0 +1,13 @@
+@import '../index.css';
+
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.body {
+  height: calc(100% - 160px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

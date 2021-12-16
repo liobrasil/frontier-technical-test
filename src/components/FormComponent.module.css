@@ -1,0 +1,52 @@
+.formInterface {
+  height: 90%;
+  width: 370px;
+  border-radius: 54px;
+  border: solid 0.5px rgb(138, 138, 123);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.step {
+  border-bottom: solid 3px #4554fc;
+  margin-top: 30px;
+  width: fit-content;
+  padding: 8px 12px;
+}
+
+.stepText {
+  background-color: #f2f4f6;
+  padding: 8px 8px;
+  border-radius: 12px;
+}
+
+.formTitle {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.form {
+  padding: 20px 12px;
+  background-color: #f2f4f6;
+  height: 100%;
+  border-bottom-right-radius: 54px;
+  border-bottom-left-radius: 54px;
+}
+
+.formFrame {
+  background-color: white;
+  border-radius: 12px;
+  height: 78%;
+  padding: 20px 14px;
+  margin-bottom: 28px;
+}
+
+.submitBtn {
+  border-radius: 6px;
+  border: none;
+  padding: 10px 0;
+  width: 100%;
+  font-size: 16px;
+  color: white;
+}
